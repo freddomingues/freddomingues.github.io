@@ -1,3 +1,3 @@
 # freddomingues.github.io
 My person web page.
-Available: https://freddomingues.github.io/freddomingues/
+Available: https://freddomingues.github.io
