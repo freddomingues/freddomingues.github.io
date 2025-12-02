@@ -1,0 +1,12 @@
+{
+  "name": "cv-pdf-generator",
+  "version": "1.0.0",
+  "description": "Gerador de PDFs dos currículos",
+  "main": "generate_pdfs.js",
+  "scripts": {
+    "generate-pdfs": "node generate_pdfs.js"
+  },
+  "devDependencies": {
+    "puppeteer": "^24.31.0"
+  }
+}
